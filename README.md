@@ -1,2 +1,3 @@
-# appathur_bugs
-Repo for Appathur beta bugs
+# Appathur Beta Test Bugs
+
+Post all bugs and issues to the issues tab
